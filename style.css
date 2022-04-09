@@ -1,0 +1,80 @@
+.floatleft{
+    float:left;
+    
+}
+
+.floatright{
+ float:right;   
+}
+
+.clear{
+    float:clear;
+}
+.imgright {
+    margin:right; 
+}
+
+.imgleft{
+    margin:left;
+}
+.imgcenter{
+    
+    margin:auto;
+}
+
+.contact{
+    background-image:url('../images/hawaii_beach.jpg');
+    background-color: bisque;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;
+}
+
+.lund{
+    background-image:url('../images/lake.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;
+}
+
+a:link{
+    color:cadetblue;
+}
+
+a:visited{
+    color:crimson;
+}
+a:hover{
+    color:forestgreen;
+}
+a:active{
+    color:green;
+}
+
+.tige{
+    background-image:url('../images/beach.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+     color:white;   
+
+}
+
+header div{ text-align: center;}
+
+header{
+    width: 90%;
+    margin:auto;
+}
+.triton{
+    background-image:url('../images/ocean.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;
+}
+
+.intro{
+  background-image:url('../images/alaska.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:white;  
+}
